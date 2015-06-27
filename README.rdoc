@@ -3,3 +3,5 @@
 This is a web application built with Ruby on Rails 26 June 2015
 
 My upload pic does not work!
+
+Testing new feature
